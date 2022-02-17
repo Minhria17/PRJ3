@@ -2,9 +2,8 @@
 <center><H2>GIỚI THIỆU DỰ ÁN WEBSITE QUẢN LÝ ĐIỂM SINH VIÊN</H2></center>
 <hr/></br>
 <p>Tài liệu này được xây dựng bởi các thành viên:</br>
-                      -Nguyễn Trọng Lâm</br>
-                      -Bùi Nguyễn Hồng Phúc</br>
- 	                    -Nguyễn Thị Mỹ Linh</p></br>
+                      -Đặng Văn Minh</br>
+                      
                       
 <p><H4>Tóm tắt</H4><br/>
 <li> GIỚI THIỆU  </li>
